@@ -1,24 +1,3 @@
-no-csp-reports: * true
-no-large-media: behind-the-scene false
-no-remote-fonts: baomoi.com true
-no-remote-fonts: baotintuc.vn true
-no-remote-fonts: daidoanket.vn true
-no-remote-fonts: duckduckgo.com true
-no-remote-fonts: machine-learning-made-simple.medium.com true
-no-remote-fonts: nld.com.vn true
-no-remote-fonts: slickdeals.net true
-no-remote-fonts: stereo.vn true
-no-remote-fonts: tienphong.vn true
-no-remote-fonts: vn-z.vn true
-no-remote-fonts: voz.vn true
-no-remote-fonts: vtcnews.vn true
-no-remote-fonts: www.congluan.vn true
-no-remote-fonts: www.nguoiduatin.vn true
-no-remote-fonts: x.com true
-no-remote-fonts: xaydungchinhsach.chinhphu.vn true
-no-scripting: www.ozbargain.com.au true
-no-strict-blocking: freemagazines.top true
-no-strict-blocking: thesoftware.shop true
 * 333xbet.com * block
 * 5faad60f67440a000cdf2347.config.smooch.io * block
 * a.mouseflow.com * block
